@@ -5,7 +5,7 @@
 
 I'm Toby Nieboer, a technical recruiter, dad, gadget enthusiast, and avid [Werewolf](https://www.eblong.com/zarf/werewolf.html) player from Melbourne, Australia. 
 - 😄 **Pronouns:** he/him
-- 🔭 **I’m currently working on:** hiring ALL the things for [Qsic](https://getqsic.com/)
+- 🔭 **I’m currently working on:** temporal mechanics
 - 👯 **I’m available to help with:** career advice and introductions
 - 😻 **Ask me about:** my cats 
 - 🌱 **I'm currently learning about:** e-bikes! I love my [Reid Adventure](https://www.reidcycles.com.au/collections/electric-bikes/products/adventure-ebike-charcoal) ❤️
