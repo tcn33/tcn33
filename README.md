@@ -1,14 +1,14 @@
 # Toby Nieboer  
-[![Twitter Badge](https://img.shields.io/badge/-@tcn33-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/tcn33)](https://twitter.com/tcn33)  [![Linkedin Badge](https://img.shields.io/badge/-tobynieboer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobynieboer//)](https://www.linkedin.com/in/tobynieboer/) [![Blog Badge](https://img.shields.io/badge/-tcn33.blog-important)](https://tcn33.blog)
+[![Threads Badge](https://img.shields.io/badge/-@tcn33-000000?style=for-the-badge&logo=threads&logoColor=white&link=[https://twitter.com/tcn33](https://www.threads.net/@tcn33))](https://www.threads.net/@tcn33)  [![Linkedin Badge](https://img.shields.io/badge/-tobynieboer-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobynieboer//)](https://www.linkedin.com/in/tobynieboer/) [![Mastodon Badge](https://img.shields.io/badge/-@tcn33@mastodon.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white&link=https://mastodon.social/@tcn33)](https://mastodon.social/@tcn33) [![Bluesky Badge](https://img.shields.io/badge/-@tcn33@bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&link=https://bsky.app/profile/tcn33.bsky.social)](https://bsky.app/profile/tcn33.bsky.social) 
 
 ## Hi there 👋
 
 I'm Toby Nieboer, a technical recruiter, dad, gadget enthusiast, and avid [Werewolf](https://www.eblong.com/zarf/werewolf.html) player from Melbourne, Australia. 
 - 😄 **Pronouns:** he/him
-- 🔭 **I’m currently working on:** technical recruitment at [Linktree](https://linktr.ee/s/about/careers/)
+- 🔭 **I’m currently working on:** recruitment at [Skutopia](https://skutopia.com/careers/)
 - 👯 **I’m available to help with:** career advice and introductions
-- 😻 **Ask me about:** my cats 
-- 🌱 **I'm currently learning about:** the intricacies of international relocation
+- 😻 **Ask me about:** international relocation tips and tricks 
+- 🌱 **I'm currently learning about:** behavior-driven development
 - 📫 **Contact me:** via the links above
 - ⚡ **Fun fact:** the contribution graph does not include your contributions to organizations you're no longer part of 😢
 - ⚠️ **Note:** though I was originally a developer, I'm now post-technical and no longer writing code professionally
