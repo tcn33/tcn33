@@ -5,10 +5,10 @@
 
 I'm Toby Nieboer, a technical recruiter, dad, gadget enthusiast, and avid [Werewolf](https://www.eblong.com/zarf/werewolf.html) player from Melbourne, Australia. 
 - 😄 **Pronouns:** he/him
-- 🔭 **I’m currently working on:** recruitment at [Skutopia](https://skutopia.com/careers/)
-- 👯 **I’m available to help with:** career advice and introductions
+- 🔭 **I’m currently working on:** job hunting
+- 👯 **I’m available to help with:** career advice, resume reviews, and introductions
 - 😻 **Ask me about:** international relocation tips and tricks 
-- 🌱 **I'm currently learning about:** behavior-driven development
+- 🌱 **I'm currently learning about:** prompt engineering
 - 📫 **Contact me:** via the links above
 - ⚡ **Fun fact:** the contribution graph does not include your contributions to organizations you're no longer part of 😢
 - ⚠️ **Note:** though I was originally a developer, I'm now post-technical and no longer writing code professionally
